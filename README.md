@@ -28,3 +28,6 @@ O fatorial de um número \( n \) (denotado como \( n! \)) é o produto de todos 
 ```bash
 python fatorial.py
 ```
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+## 
